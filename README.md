@@ -14,5 +14,5 @@ This is a simple yet effective To-Do List Application built with HTML, CSS, and 
  2. Edit task names by double-clicking on them.
  3. Mark tasks as completed by clicking on the checkbox.
  4. Delete tasks by clicking on the trash icon.
- 5. Using voice command feature to add, edit and delete task 
+ 
 
